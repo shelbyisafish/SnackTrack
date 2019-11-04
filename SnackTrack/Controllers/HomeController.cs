@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using SnackTrack.Models;
+using SnackTrackBLL.Models;
 
 namespace SnackTrack.Controllers
 {
@@ -12,6 +13,8 @@ namespace SnackTrack.Controllers
     {
         public IActionResult Index()
         {
+            //Store s = new Store();
+            //s.Create();
             return View();
         }
 
