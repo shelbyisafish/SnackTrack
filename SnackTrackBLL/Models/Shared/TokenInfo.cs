@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using SnackTrackDataAccessLayer;
 
-namespace SnackTrackBLL.Models
+namespace SnackTrackBLL.Models.Shared
 {
     public class TokenInfo
     {

@@ -8,8 +8,4 @@
     <ProjectReference Include="..\SnackTrackDataAccessLayer\SnackTrackDataAccessLayer.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="BLL\" />
-  </ItemGroup>
-
 </Project>

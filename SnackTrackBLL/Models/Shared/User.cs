@@ -1,7 +1,7 @@
 ﻿using System;
 using SnackTrackDataAccessLayer;
 
-namespace SnackTrackBLL.Models
+namespace SnackTrackBLL.Models.Shared
 {
     public class User
     {
